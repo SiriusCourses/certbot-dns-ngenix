@@ -15,7 +15,7 @@ In the `Settings -> My profile` you have to have a user, with the following perm
 ## Installation
 ```
 mkdir certbot-dns-ngenix
-curl -L "https://github.com/cheopslab/certbot-dns-ngenix/archive/master.tar.gz" | tar -xz -C certbot-dns-ngenix --strip-components=1 
+curl -L "https://github.com/SiriusCourses/certbot-dns-ngenix/archive/master.tar.gz" | tar -xz -C certbot-dns-ngenix --strip-components=1 
 pip install ./certbot-dns-ngenix
 ```
 
