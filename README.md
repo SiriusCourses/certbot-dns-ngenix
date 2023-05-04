@@ -51,7 +51,7 @@ certbot certonly \
 
 ## Docker
 
-In order to create a docker container with a certbot-dns-ngenix installation, create an empty directory with the following Dockerfile:
+In order to create a docker container with a certbot-dns-ngenix installation, create the following Dockerfile next to your plugin folder:
 
 ```
 FROM certbot/certbot
